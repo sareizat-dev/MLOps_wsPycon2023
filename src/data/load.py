@@ -1,7 +1,7 @@
 import torch
 import torchvision
 from torch.utils.data import TensorDataset
-# Testing
+# Testing.
 import argparse
 import wandb
 
